@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T06:14:29.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kiLEC-MtZsD5b9pb1wY1" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:59:43.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-9ppP4mozu_82YzaO3n7" version="22.1.5" type="github">
   <diagram name="第 1 页" id="F8G9IjPi7zZ8u7NGzZ_l">
     <mxGraphModel dx="1434" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,13 +152,13 @@
           <mxGeometry x="175" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3BD_HIC9iNXqmE_US1k-60" value="新增云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="185" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3BD_HIC9iNXqmE_US1k-65" value="修改云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="500" width="80" height="30" as="geometry" />
+          <mxGeometry x="95" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3BD_HIC9iNXqmE_US1k-66" value="删除云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="580" width="80" height="30" as="geometry" />
+          <mxGeometry x="95" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3BD_HIC9iNXqmE_US1k-67" value="开启直播" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="140" width="60" height="30" as="geometry" />
@@ -252,6 +252,33 @@
         </mxCell>
         <mxCell id="kYNCaWA5WUajGW6H5swQ-22" value="主席变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-23" value="使用云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-24" value="取消使用云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-25" value="云会议室已创建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-26" value="修改云会议室布局" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-28" value="云会议室已修改" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-29" value="云会议室已删除" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-30" value="云会议室已使用" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-32" value="调节音量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-33" value="音量变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
