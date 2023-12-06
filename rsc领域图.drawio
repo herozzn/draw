@@ -1,194 +1,257 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T01:43:22.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VaA9-VbA46bV8Ny5KFfb" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T06:14:29.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kiLEC-MtZsD5b9pb1wY1" version="22.1.5" type="github">
   <diagram name="第 1 页" id="F8G9IjPi7zZ8u7NGzZ_l">
-    <mxGraphModel dx="1366" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="50" y="100" width="1210" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="540" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-4" value="会话" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-4" value="会话" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="645" y="130" width="565" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-9" value="端点" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-9" value="端点" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="897.5" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="390" width="470" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="570" y="390" width="470" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-12" value="虚拟云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-12" value="虚拟云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="277.5" y="500" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-13" value="呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-13" value="呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="775" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-14" value="锁定会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-14" value="锁定会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-15" value="发起呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-15" value="发起呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-18" value="取消呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-18" value="取消呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-19" value="呼叫记录" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-19" value="呼叫记录" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-21" value="拒绝呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-21" value="拒绝呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="690" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-22" value="接受呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-22" value="接受呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="690" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-23" value="呼叫繁忙" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-23" value="呼叫繁忙" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="690" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-24" value="呼叫已发起" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-24" value="呼叫已发起" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="860" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-25" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-25" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="860" y="500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-26" value="呼叫繁忙" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-26" value="呼叫繁忙" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="550" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-27" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-27" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-28" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-28" value="呼叫已取消" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-29" value="命令" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-29" value="命令" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-30" value="实体" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-30" value="实体" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-31" value="事件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="40" width="70" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-31" value="事件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-33" value="静音" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-33" value="静音" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-34" value="取消静音" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-34" value="取消静音" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="810" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-35" value="开扬声器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-35" value="开扬声器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-36" value="关扬声器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-36" value="关扬声器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="810" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-37" value="开摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-37" value="开摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-38" value="关摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-38" value="关摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="810" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-39" value="语音激励" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-39" value="语音激励" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-40" value="广播单会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-40" value="广播单会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-41" value="会话设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-41" value="会话设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-42" value="开启横幅" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-42" value="开启横幅" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-43" value="开启录制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-43" value="开启录制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-44" value="结束会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-44" value="结束会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-45" value="设置主席" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-45" value="设置主席" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-46" value="取消主席" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-46" value="取消主席" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="810" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-47" value="点名发言" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-47" value="点名发言" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-48" value="观看会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-48" value="观看会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-49" value="设置为主持人" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-49" value="设置为主持人" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-50" value="取消主持人" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-50" value="取消主持人" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="810" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-52" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-52" value="加入会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-53" value="退出会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-53" value="退出会议" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-54" value="修改名称" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-54" value="修改名称" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-55" value="自定义多画面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-55" value="自定义多画面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-57" value="广播多画面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-57" value="广播多画面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-58" value="广播轮询" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-58" value="广播轮询" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-59" value="主席轮询" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-59" value="主席轮询" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-60" value="新增云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-60" value="新增云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="420" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-65" value="修改云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-65" value="修改云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-66" value="删除云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-66" value="删除云会议室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="580" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-67" value="开启直播" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-67" value="开启直播" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-68" value="停止录制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-68" value="停止录制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-69" value="修改录制布局" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-69" value="修改录制布局" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-70" value="切换模式" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-70" value="切换模式" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-71" value="结束横幅" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-71" value="结束横幅" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-72" value="开启等候室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-72" value="开启等候室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-73" value="关闭等候室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-73" value="关闭等候室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="175" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-75" value="会议已锁定" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-75" value="会议已锁定" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-78" value="会议已解锁" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-78" value="会议已解锁" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3BD_HIC9iNXqmE_US1k-79" value="语音激励" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="F3BD_HIC9iNXqmE_US1k-79" value="语音激励" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-1" value="横幅已开启" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-2" value="横幅已开启" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-3" value="锁定观看会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-4" value="会议已结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-5" value="直播已经开启" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-6" value="布局变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-7" value="录制已开启" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-8" value="录制已关闭" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-9" value="模式切换" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-10" value="会话设置变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-11" value="已加入会话" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-13" value="已退出会话" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-14" value="名称已修改" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-15" value="端点布局变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-16" value="已锁定观看会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-17" value="已设置观看会场" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-18" value="角色已变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-19" value="音频变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-20" value="扬声器变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-21" value="摄像头变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNCaWA5WUajGW6H5swQ-22" value="主席变更" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
