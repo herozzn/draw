@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T13:18:07.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.11" etag="U6SPFzaO44YKVPNJ1Ahf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T07:04:42.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZnKaepZ3o9ymX_kg65q9" version="22.1.11" type="github">
   <diagram name="第 1 页" id="GVHg8zzqXNfjFSB17vJm">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vUry3OuNKs8sEopNnKrK-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="520" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUry3OuNKs8sEopNnKrK-9" target="vUry3OuNKs8sEopNnKrK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-9" value="执行退会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUry3OuNKs8sEopNnKrK-10" target="vUry3OuNKs8sEopNnKrK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-13" value="member状态变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-15" value="入会自动静音状态变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-16" value="添加会话黑名单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-17" value="推送 MQ 事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-18" value="结束呼叫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-19" value="推送退会socket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-20" value="推送踢人socket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-21" value="移除 member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-22" value="结束共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-23" value="清理端点申请发言状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-24" value="清理端点申请开视频状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-28" value="回收令牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="564.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-29" value="取消主会场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="564.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-30" value="取消本地录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-31" value="退出会话" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vUry3OuNKs8sEopNnKrK-32" value="踢出会话" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
