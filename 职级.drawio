@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T00:40:41.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="22.1.16" etag="aynn238cPi1i_OLonGBp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T01:48:45.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qsp9cAzwLyRdBjVuZmBw" version="22.1.16" type="github">
   <diagram name="第 1 页" id="ZyFJX_iYTsI-zzFDv8aN">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-2" value="会议域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-5" value="meeting" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="274" y="515" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-6" value="MeetingMember" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="515" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-7" value="" style="endArrow=diamondThin;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UhSnyVyMeZGxpZXqt2Me-6" target="UhSnyVyMeZGxpZXqt2Me-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="800" as="sourcePoint" />
+            <mxPoint x="480" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-8" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-9" value="会话域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-10" value="Session" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="274" y="795" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="UhSnyVyMeZGxpZXqt2Me-11" target="UhSnyVyMeZGxpZXqt2Me-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-15" value="&lt;font color=&quot;#ff0000&quot;&gt;会话创建时通过MeetingMember创建SessionMember&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UhSnyVyMeZGxpZXqt2Me-14">
+          <mxGeometry x="0.0261" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-11" value="SessionMember" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="795" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-12" value="" style="endArrow=diamondThin;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="UhSnyVyMeZGxpZXqt2Me-11" target="UhSnyVyMeZGxpZXqt2Me-10" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="314" y="1050" as="sourcePoint" />
+            <mxPoint x="474" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhSnyVyMeZGxpZXqt2Me-13" value="" style="endArrow=openThin;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UhSnyVyMeZGxpZXqt2Me-5" target="UhSnyVyMeZGxpZXqt2Me-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="890" as="sourcePoint" />
+            <mxPoint x="230" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
